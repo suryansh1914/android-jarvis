@@ -1,0 +1,19 @@
+# Code owners for JARVIS AI
+# These users will be automatically requested for review when someone opens a pull request
+
+# Global owners - all files
+* @suryansh1914
+
+# Services - critical files
+/src/services/ @suryansh1914
+
+# Configuration files
+/.env.example @suryansh1914
+/babel.config.js @suryansh1914
+/tsconfig.json @suryansh1914
+/package.json @suryansh1914
+
+# Documentation
+/README.md @suryansh1914
+/USER_GUIDE.md @suryansh1914
+/CONTRIBUTING.md @suryansh1914
