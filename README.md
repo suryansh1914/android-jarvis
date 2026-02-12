@@ -275,10 +275,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Suryansh Chaturvedi**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@suryansh1914](https://github.com/suryansh1914)
+- Email: suryanshchaturvedi282@gmail.com
 
 ---
 

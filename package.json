@@ -2,6 +2,11 @@
   "name": "jarvis-ai",
   "version": "1.0.0",
   "description": "AI-powered voice assistant for Android with Hindi/Hinglish support",
+  "author": {
+    "name": "Suryansh Chaturvedi",
+    "email": "suryanshchaturvedi282@gmail.com",
+    "url": "https://github.com/suryansh1914"
+  },
   "main": "index.js",
   "scripts": {
     "start": "expo start",

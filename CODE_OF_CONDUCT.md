@@ -33,7 +33,7 @@ and orientation.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainers at suryansh1914@users.noreply.github.com.
+reported to the project maintainers at suryanshchaturvedi282@gmail.com.
 
 All complaints will be reviewed and investigated promptly and fairly.
 

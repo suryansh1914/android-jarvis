@@ -200,7 +200,7 @@ Koi doubt ho to:
 
 1. **GitHub Issues** - Question poocho
 2. **Discussions** - Community se baat karo
-3. **Email** - suryansh1914@users.noreply.github.com
+3. **Email** - suryanshchaturvedi282@gmail.com
 
 ---
 
